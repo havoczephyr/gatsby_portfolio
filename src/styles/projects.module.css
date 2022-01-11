@@ -1,0 +1,17 @@
+.portfolio {
+    text-align: center;
+  }
+  .portfolio > h2 {
+    font-size: 3em;
+    margin-top: 80px;
+  }
+  .portfolio > h3 {
+    font-size: 2em;
+    font-weight: 400;
+  }
+  .project_images {
+    max-width: 15%;
+    border: 5px solid rgb(120, 3, 255);
+    border-radius: 12px;
+    box-shadow: 8px 8px 2px rgb(5, 255, 255);
+}
